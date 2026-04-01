@@ -52,3 +52,6 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+/.vs/GIT_Feature-Dev-QA-UAT/v17
+/PaymentService
+/.vs
