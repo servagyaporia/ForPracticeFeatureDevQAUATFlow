@@ -55,3 +55,5 @@ nunit-*.xml
 /.vs/GIT_Feature-Dev-QA-UAT/v17
 /PaymentService
 /.vs
+/.vs
+/PaymentService
