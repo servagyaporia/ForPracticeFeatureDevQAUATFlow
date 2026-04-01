@@ -14,6 +14,29 @@ obj/
 # Logs
 *.log
 
+# NuGet Packages
+*.nupkg
+# NuGet Symbol Packages
+*.snupkg
+
+# Others
+~$*
+*~
+CodeCoverage/
+
+# MSBuild Binary and Structured Log
+*.binlog
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# NUnit
+*.VisualState.xml
+TestResult.xml
+nunit-*.xml
+/.vs/GIT_Feature-Dev-QA-UAT/v17
+/.vs
 # OS files
 .DS_Store
 Thumbs.db
